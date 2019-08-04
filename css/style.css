@@ -8,6 +8,11 @@ body {
   border-radius: 0;
 }
 
+.login{
+  padding: 30px 40px;
+  margin-top: 20vh;
+}
+
 .navbar-nav > li > a,
 .navbar-brand {
   padding-top: 6px !important;
